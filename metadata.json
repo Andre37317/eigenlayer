@@ -1,7 +1,7 @@
 {
-  "name": "EigenADA",
-  "website": "https://holesky.eigenlayer.xyz/operator",
-  "description": "Wen Eigen on Cardano, ser",
-  "logo": "https://cryptologos.cc/logos/cardano-ada-logo.png",
-  "twitter": "https://twitter.com/cardano_cf"
+  "name": "ADA",
+  "website": "https://cardano.org/",
+  "description": "Delegate for ADA points",
+  "logo": "https://raw.githubusercontent.com/Andre37317/eigenlayer/main/metadata.json",
+  "twitter": "https://twitter.com/IOHK_Charles"
 }
